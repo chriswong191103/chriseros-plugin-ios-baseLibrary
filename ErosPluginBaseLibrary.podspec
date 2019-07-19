@@ -7,13 +7,13 @@ Pod::Spec.new do |s|
                    WeexEros iOS App base library
                    DESC
 
-  s.homepage     = "https://github.com/bmfe/eros-plugin-ios-baseLibrary"
+  s.homepage     = "https://github.com/chriswong191103/chriseros-plugin-ios-baseLibrary"
   s.license      = "MIT"
   s.author       = { "chriswong" => "chriswong191103@gmail.com" }
 
   s.platform     = :ios, "8.0"
   s.ios.deployment_target = "8.0"
-  s.source       = { :git => "https://github.com/bmfe/eros-plugin-ios-baseLibrary.git", :tag => s.version.to_s }
+  s.source       = { :git => "https://github.com/chriswong191103/chriseros-plugin-ios-baseLibrary.git", :tag => s.version.to_s }
   s.requires_arc = true
   
   s.dependency 'YYText', '1.0.7'
