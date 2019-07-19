@@ -9,7 +9,7 @@ Pod::Spec.new do |s|
 
   s.homepage     = "https://github.com/bmfe/eros-plugin-ios-baseLibrary"
   s.license      = "MIT"
-  s.author       = { "xionghuayu" => "18601949015@163.com" }
+  s.author       = { "chriswong" => "chriswong191103@gmail.com" }
 
   s.platform     = :ios, "8.0"
   s.ios.deployment_target = "8.0"
